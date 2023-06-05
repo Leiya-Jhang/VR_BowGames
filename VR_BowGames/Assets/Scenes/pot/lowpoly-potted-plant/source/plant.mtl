@@ -1,0 +1,58 @@
+# Blender MTL File: 'plant.blend'
+# Material Count: 5
+
+newmtl dirt
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.049549 0.026330 0.011845
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd textures\\TexturesCom_Ground_Soil8_2x2_512_albedo.tif
+map_Ns textures\\TexturesCom_Ground_Soil8_2x2_512_roughness.tif
+
+newmtl leaf
+Ns 448.442929
+Ka 1.000000 1.000000 1.000000
+Kd 0.055354 0.098504 0.023564
+Ks 0.044118 0.044118 0.044118
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+
+newmtl leaf2
+Ns 536.467332
+Ka 1.000000 1.000000 1.000000
+Kd 0.030821 0.054969 0.015654
+Ks 0.161765 0.161765 0.161765
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+
+newmtl pot
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.052134 0.047570
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd textures\\TexturesCom_Terracotta_Plain_1K_albedo.tif
+map_Ns textures\\TexturesCom_Terracotta_Plain_1K_roughness.tif
+
+newmtl stick
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.288296 0.164554 0.097092
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd textures\\TexturesCom_TreeBark5_512_albedo.tif
+map_Ns textures\\TexturesCom_TreeBark5_512_roughness.tif
